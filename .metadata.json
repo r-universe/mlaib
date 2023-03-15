@@ -1,5 +1,21 @@
 [
   {
+    "package": "CombinS",
+    "oncran": true
+  },
+  {
+    "package": "MFDFA",
+    "oncran": true
+  },
+  {
+    "package": "PGM2",
+    "oncran": true
+  },
+  {
+    "package": "RPPairwiseDesign",
+    "oncran": true
+  },
+  {
     "package": "SFtools",
     "oncran": true
   }
