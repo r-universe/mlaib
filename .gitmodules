@@ -8,6 +8,11 @@
 	url = https://github.com/mlaib/combins
 	shallow = true
 	registered = true
+[submodule "FiSh"]
+	path = FiSh
+	url = https://github.com/cran/FiSh
+	shallow = true
+	registered = true
 [submodule "MFDFA"]
 	path = MFDFA
 	url = https://github.com/mlaib/mfdfa
