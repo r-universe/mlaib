@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CombinS"]
 	path = CombinS
 	url = https://github.com/mlaib/combins
-	shallow = true
-	registered = true
 [submodule "FiSh"]
 	path = FiSh
 	url = https://github.com/cran/FiSh
-	shallow = true
-	registered = true
 [submodule "MFDFA"]
 	path = MFDFA
 	url = https://github.com/mlaib/mfdfa
-	shallow = true
-	registered = true
 [submodule "PGM2"]
 	path = PGM2
 	url = https://github.com/mlaib/pgm2
-	shallow = true
-	registered = true
 [submodule "RPPairwiseDesign"]
 	path = RPPairwiseDesign
 	url = https://github.com/mlaib/rppairwisedesign
-	shallow = true
-	registered = true
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/mlaib/sftools
-	shallow = true
-	registered = true
