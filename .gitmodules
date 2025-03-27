@@ -14,9 +14,6 @@
 [submodule "PGM2"]
 	path = PGM2
 	url = https://github.com/mlaib/pgm2
-[submodule "RPPairwiseDesign"]
-	path = RPPairwiseDesign
-	url = https://github.com/mlaib/rppairwisedesign
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/mlaib/sftools
